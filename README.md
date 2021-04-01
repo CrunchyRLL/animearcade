@@ -50,3 +50,5 @@ Special thanks to:
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+![Video](https://cdn.discordapp.com/attachments/827151725134610443/827151812158423040/Anime_Arcade_-_Official_Trailer_AndroidiOS.gif) 
