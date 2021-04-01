@@ -1,0 +1,11 @@
+- You have 5 Lives.
+--- RECORDSEPARATOR ---
+- Tap the school members as they pop 
+--- RECORDSEPARATOR ---
+up to whack them!
+--- RECORDSEPARATOR ---
+- Tapping on an empty space or missing 
+--- RECORDSEPARATOR ---
+a school member will lose a life.
+--- RECORDSEPARATOR ---
+- Score as many points as possible!

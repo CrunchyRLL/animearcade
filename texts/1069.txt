@@ -1,0 +1,11 @@
+- You have 3 Lives.
+--- RECORDSEPARATOR ---
+- Tap the bottom button each time a 
+--- RECORDSEPARATOR ---
+music note touches the middle line.
+--- RECORDSEPARATOR ---
+- Every 5 seconds "Fever" will occur 
+--- RECORDSEPARATOR ---
+for 5 seconds, with more music notes.
+--- RECORDSEPARATOR ---
+- Gain Double points during Fever.

@@ -1,0 +1,11 @@
+- You have 1 Life.
+--- RECORDSEPARATOR ---
+- Tap the two blue tiles on the bottom
+--- RECORDSEPARATOR ---
+row.
+--- RECORDSEPARATOR ---
+- The timer will go faster as you gain 
+--- RECORDSEPARATOR ---
+points.
+--- RECORDSEPARATOR ---
+- Avoid tapping the red tiles!

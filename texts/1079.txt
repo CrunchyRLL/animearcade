@@ -1,0 +1,9 @@
+- You have 5 Lives.
+--- RECORDSEPARATOR ---
+- Tap the targets as they fly on screen.
+--- RECORDSEPARATOR ---
+- Missing a target will lose a life.
+--- RECORDSEPARATOR ---
+- Tapping empty spaces will NOT lose a 
+--- RECORDSEPARATOR ---
+life.

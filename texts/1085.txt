@@ -1,0 +1,11 @@
+- You have 1 Life.
+--- RECORDSEPARATOR ---
+- There are three hoops to jump 
+--- RECORDSEPARATOR ---
+through.
+--- RECORDSEPARATOR ---
+- Tap the corresponding button that 
+--- RECORDSEPARATOR ---
+matches with the hoop.
+--- RECORDSEPARATOR ---
+- Hitting the pole will end in a gameover.

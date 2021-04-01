@@ -1,0 +1,11 @@
+- You have 5 Lives.
+--- RECORDSEPARATOR ---
+- Jump and Slide to avoid hitting walls 
+--- RECORDSEPARATOR ---
+and falling into gaps.
+--- RECORDSEPARATOR ---
+- You can Double Jump.
+--- RECORDSEPARATOR ---
+- When you respawn you can jump once.
+--- RECORDSEPARATOR ---
+- Speed Boosts will multiply your score.

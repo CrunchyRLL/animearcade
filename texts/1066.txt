@@ -1,0 +1,11 @@
+- You have 3 Lives.
+--- RECORDSEPARATOR ---
+- Tap the screen to change directions.
+--- RECORDSEPARATOR ---
+- Avoid hitting anything (including the 
+--- RECORDSEPARATOR ---
+walls!)
+--- RECORDSEPARATOR ---
+- Get 1 point each time to go through
+--- RECORDSEPARATOR ---
+a tree.

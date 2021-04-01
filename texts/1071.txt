@@ -1,0 +1,11 @@
+- You have 3 Lives.
+--- RECORDSEPARATOR ---
+- Tap the screen to flap!
+--- RECORDSEPARATOR ---
+- Hitting a tower will lose 1 life.
+--- RECORDSEPARATOR ---
+- Hitting the ground will make you 
+--- RECORDSEPARATOR ---
+instantly lose.
+--- RECORDSEPARATOR ---
+- Score as many points as possible!

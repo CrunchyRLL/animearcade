@@ -1,0 +1,9 @@
+- You have 3 Lives.
+--- RECORDSEPARATOR ---
+- Hold down on the screen to fly up, 
+--- RECORDSEPARATOR ---
+release to fly down.
+--- RECORDSEPARATOR ---
+- Avoid flying into stars.
+--- RECORDSEPARATOR ---
+- Survive as long as possible!

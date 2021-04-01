@@ -1,0 +1,11 @@
+- You have 1 Life.
+--- RECORDSEPARATOR ---
+- Tap the Left/Middle/Right buttons to 
+--- RECORDSEPARATOR ---
+jump that direction.
+--- RECORDSEPARATOR ---
+- Aim for the next platform above you.
+--- RECORDSEPARATOR ---
+- Every second you will get a point.
+--- RECORDSEPARATOR ---
+- Avoid going into the water!
